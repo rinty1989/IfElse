@@ -13,9 +13,6 @@ else if(a<85 && a >=75){
 		System.out.println("C");
 	}
 else if (a<75 && a >= 65){
-	System.out.println("D");
-}
-else{
 	System.out.println("F");
 }
 }
