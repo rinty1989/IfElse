@@ -1,0 +1,13 @@
+package com.ifelse;
+
+public class ElsseIf {
+public static void main(String[] args){
+	int a = 99;
+	if (a>=99){
+		System.out.println("Result A");
+	}
+	else if (a<90 && >=80){
+		System.out.println("Result B");
+	}
+}
+}

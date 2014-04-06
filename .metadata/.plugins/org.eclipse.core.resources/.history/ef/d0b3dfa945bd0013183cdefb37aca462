@@ -2,7 +2,7 @@ package com.ifelse;
 
 public class IfHWElse {
 public static void main(String [] args){
-	int a =88;
+	int a =69;
 	if (a>=90){
 	System.out.println("A");
 }
