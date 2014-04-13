@@ -1,0 +1,19 @@
+package com.arrays;
+
+public class OneOOneArray {
+
+	public OneOOneArray() {
+		// TODO Auto-generated constructor stub
+	
+		int [] ArrayWorld;
+		ArrayWorld= new int [22];
+		
+		
+		for (int a= 1; a<=6; a++){
+		ArrayWorld [a] =10;
+		Sc
+		}
+		for (int b=)
+	}
+
+}
